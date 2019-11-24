@@ -3,5 +3,13 @@
   "version": "0.0.1",
   "description": "Vue contenteditable component",
   "main": "index.js",
-  "license": "MIT"
+  "license": "Who is John Galt?",
+  "scripts": {
+    "github:master": "git push origin master"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.0",
+    "vue-eslint-parser": "^7.0.0"
+  }
 }

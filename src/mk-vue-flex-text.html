@@ -1,1 +1,4 @@
-<div class="mk-vue-flex-text"></div>
+<div class="mk-vue-flex-text" 
+  contenteditable="true"
+  @keyup.prevent="updateValue"
+  v-html="innerValue"></div>
