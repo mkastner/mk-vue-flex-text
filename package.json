@@ -1,0 +1,7 @@
+{
+  "name": "mk-vue-flex-text",
+  "version": "0.0.1",
+  "description": "Vue contenteditable component",
+  "main": "index.js",
+  "license": "MIT"
+}
